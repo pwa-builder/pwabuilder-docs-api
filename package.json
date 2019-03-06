@@ -1,0 +1,25 @@
+{
+  "name": "pwabuilder-docs-api",
+  "version": "1.0.0",
+  "description": "An API that retrieves documentation for Windows 10 PWA snippets.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwa-builder/pwabuilder-docs-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwa-builder/pwabuilder-docs-api/issues"
+  },
+  "homepage": "https://github.com/pwa-builder/pwabuilder-docs-api#readme",
+  "dependencies": {
+    "array": "^0.4.3",
+    "download": "^7.1.0",
+    "express": "^4.16.4",
+    "fetch": "^1.1.0"
+  }
+}
